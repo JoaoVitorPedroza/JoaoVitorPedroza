@@ -6,6 +6,7 @@
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(zippghh@gmail))
 
 
+![Joao Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorPedroza&show_icons=true&theme=radical)
 
 
 
@@ -20,4 +21,5 @@
 
 
 
-### linguagens mais ultilizadas
+### linguagens mais usadas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorPedroza&layout=pie)](https://github.com/JoaoVitorPedroza/github-readme-stats)
