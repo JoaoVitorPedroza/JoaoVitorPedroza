@@ -7,7 +7,7 @@
 
 
 
-![JoaoVitorPedroza GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-JoaoVitorPedroza&show_icons=true&theme=dracula)
+
 
 ### Tecnologias do meu dia 🗒️
 ![CSS](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,4 +21,3 @@
 
 
 ### linguagens mais ultilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-JoaoVitorPedroza)](https://github.com/anuraghazra/github-readme-stats)
