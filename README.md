@@ -1,16 +1,24 @@
-## Hi there 👋
+### Olá eu sou João Vitor, e esse é meu Github, prazer em conhecê-lo ou conhecê-la🎩
 
-<!--
-**JoaoVitorPedroza/JoaoVitorPedroza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/joão-vitor-pedroza-)
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(zippghh@gmail))
+
+
+
+![mr-ze0ss GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-ze0ss&show_icons=true&theme=dracula)
+
+### Tecnologias do meu dia 🗒️
+![CSS](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+### linguagens mais ultilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ze0ss)](https://github.com/anuraghazra/github-readme-stats)
